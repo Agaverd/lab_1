@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#VS2022
+src/.vs/
+src/out/
