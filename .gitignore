@@ -31,6 +31,14 @@
 *.out
 *.app
 
-#VS2022
-src/.vs/
-src/out/
+# Studio Code
+.vs
+.vscode
+out
+/src.vs
+
+# Build Artifacts
+build
+build.*
+bin
+bin.*
