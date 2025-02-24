@@ -35,7 +35,8 @@
 .vs
 .vscode
 out
-/src.vs
+/src/.vs
+/src/out
 
 # Build Artifacts
 build
